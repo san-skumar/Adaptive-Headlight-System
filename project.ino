@@ -1,3 +1,5 @@
+`AUTHOR : Sangita Sasikumar`
+
 #include<Wire.h>
 #include<Servo.h>
 const int MPU=0x68; //I2C address of MPU
